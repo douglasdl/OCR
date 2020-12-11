@@ -3,4 +3,4 @@ Optical Character Recognition
 
 
 # Add Languages
-[TrainingData] [https://github.com/tesseract-ocr/tessdata]
+[TrainingData] (https://github.com/tesseract-ocr/tessdata)
